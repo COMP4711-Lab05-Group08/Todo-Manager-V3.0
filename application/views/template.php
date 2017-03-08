@@ -20,7 +20,7 @@
                 {content}
             </div>
             <div id="footer" class="span12">
-                Copyright &copy; 2017,  <a href="mailto:someone@somewhere.com">Me</a>.
+                Copyright &copy; 2017,  <a href="mailto:arnoldmyint@me.com">Todo Manager</a>.
             </div>
         </div>
         {caboose_scripts}
