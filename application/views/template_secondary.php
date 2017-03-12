@@ -8,6 +8,7 @@
         {caboose_styles}
 	</head>
 	<body>
+        <br>
         <div class="container">
             <div class="navbar">
                 <div class="navbar-inner">
@@ -29,7 +30,7 @@
 				</div>
             </div>
             <div id="footer" class="span12">
-                Copyright &copy; 2017,  <a href="mailto:someone@somewhere.com">Me</a>.
+                Copyright &copy; 2017,  <a href="mailto:arnoldmyint@me.com">Todo Manager</a>.
             </div>
         </div>
         {caboose_scripts}
