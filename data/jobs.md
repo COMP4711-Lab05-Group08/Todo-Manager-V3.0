@@ -1,6 +1,12 @@
-Please, plase, please help with with my COMP1234 homework. I am clueless.
+###Looking for hard working CST students *"This job is awesome!"*.
 
-I can pay you in chocolate chip cookies, one dozen per feature
-completed bug free!!!
+**Description**
 
-Contact me via PM at 123-456-7890.
+You will get a 1,000,000 dollar check to start your work
+    with our company. It is fun and exciting to work at. We have
+    friendly and welcoming workers. You recieve free chocolate
+    cookies every day.
+
+**Contact**
+
+Call 604-444-4444 or Email at hello@world.com
